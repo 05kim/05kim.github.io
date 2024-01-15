@@ -3,7 +3,6 @@ title: 플링크 플링플링
 date: '2022-01-13'
 tags: ['markdown', 'code', 'features']
 draft: true
-draft: true
 summary: Example of a markdown file with code blocks and syntax highlighting
 ---
 

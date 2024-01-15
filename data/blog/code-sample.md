@@ -3,7 +3,6 @@ title: 블로그를 시작합니다.
 date: '2022-01-13'
 tags: ['markdown', 'code', 'features']
 draft: true
-draft: true
 summary: Example of a markdown file with code blocks and syntax highlighting
 ---
 
