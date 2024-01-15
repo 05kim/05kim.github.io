@@ -66,6 +66,10 @@ module.exports = withBundleAnalyzer({
       },
     ]
   },
+  images: {
+    loader: 'akamai',
+    path: '',
+  },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
       test: /\.svg$/,
