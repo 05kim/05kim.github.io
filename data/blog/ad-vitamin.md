@@ -6,7 +6,7 @@ draft: false
 summary: 맛 좋은 발포 비타민 하지만 많이 먹으면 좋지 않습니다.
 ---
 
-<img width="200" alt="image" src="https://github.com/05kim/05kim.github.io/assets/79434872/cedc4b65-53fb-41eb-805f-a1fb52056e11">
+<img width="200" alt="image" src="https://github.com/05kim/05kim.github.io/assets/79434872/cedc4b65-53fb-41eb-805f-a1fb52056e11"></img>
 
 더글로리에 PPL 로 나온 발포 비타민을 보고 저거 맛있나? 하고 시켜보았는데
 이제 발포 비타민 하루에 3개씩 먹는 사람이 되어 버렸습니다.
