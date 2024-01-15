@@ -19,4 +19,12 @@
   <url>
     <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags</loc>
   </url>
+
+  <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/ad-vitamin</loc>
+  </url>
+
+  <url>
+    <loc>https://tailwind-nextjs-starter-blog.vercel.app/tags/서버비-충당을-위한-광고</loc>
+  </url>
 </urlset>
