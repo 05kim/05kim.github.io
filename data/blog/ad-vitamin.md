@@ -23,6 +23,6 @@ https://m.health.chosun.com/svc/news_view.html?contid=2023041402325
 
 https://link.coupang.com/a/bm7rL5
 
-<a href="https://link.coupang.com/a/bm7rSS" target="_blank" referrerpolicy="unsafe-url"><img src="https://img1c.coupangcdn.com/image/affiliate/banner/11eed483f5c88aeaea126ce3f7a33bf9@2x.jpg" alt="구트할로 멀티 오렌지맛 발포비타민, 20정, 3개" width="120" height="240"></a>
+<a href="https://link.coupang.com/a/bm7rSS" target="_blank" referrerpolicy="unsafe-url"><img src="https://img1c.coupangcdn.com/image/affiliate/banner/11eed483f5c88aeaea126ce3f7a33bf9@2x.jpg" alt="구트할로 멀티 오렌지맛 발포비타민, 20정, 3개" width="120" height="240"></img></a>
 
 "이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다."
