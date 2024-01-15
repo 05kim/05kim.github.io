@@ -1,5 +1,5 @@
 ---
-title: 블로그를 시작합니다.
+title: 플링크 플링플링
 date: '2022-01-13'
 tags: ['markdown', 'code', 'features']
 draft: true
